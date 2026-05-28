@@ -29,7 +29,7 @@ Focusing on building fast, optimized web applications and high-quality UI/UX des
 <br>
 
 <a href="https://ryuki-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio_Site-1f2328?style=plastic&logo=googlechrome&logoColor=58a6ff" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio_Site-1f2328?style=flat&logo=googlechrome&logoColor=58a6ff" width="150" alt="Portfolio Site" />
 </a>
 
 </td>
@@ -62,9 +62,3 @@ Focusing on building fast, optimized web applications and high-quality UI/UX des
 </td>
 </tr>
 </table>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yama9120&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</div>
