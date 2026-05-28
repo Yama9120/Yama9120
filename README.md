@@ -22,9 +22,9 @@
 Focusing on building fast, optimized web applications and high-quality UI/UX design, while exploring machine learning and game development.
 
 - **Location:** Japan
-- **Focus:** Front-end (Next.js), API Development, UI/UX Design, Performance Optimization
+- **Focus:** Front-end (Next.js), UI/UX Design, Performance Optimization
 - **Learning:** Game Development (Unreal Engine), Computer Graphics, Machine Learning
-- **Philosophy:** Emphasizing statically typed languages, robust static analysis, and seamless developer experience.
+- **Philosophy:** Emphasizing statically typed languages, and seamless developer experience.
 
 <br>
 
